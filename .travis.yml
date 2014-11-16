@@ -1,1 +1,1 @@
-script: test-on-travis.sh
+script: ./test-on-travis.sh
