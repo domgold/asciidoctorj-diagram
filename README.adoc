@@ -1,0 +1,13 @@
+= Asciidoctorj Diagram
+
+Java integration for the Asciidoctor Diagram extension.
+
+Just add the jar as dependency to the class path and you can start using diagram blocks etc in your asciidocs.
+
+See the integration test (link:./src/it/asciidoctor-maven-example/pom.xml[asciidoctor-maven-example]) for a simple maven example.
+
+To build with integration tests do :
+
+----
+$ mvn verify -Prun-it
+----

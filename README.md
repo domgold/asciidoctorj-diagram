@@ -1,2 +1,0 @@
-asciidoctorj-diagram
-====================
