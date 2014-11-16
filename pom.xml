@@ -95,7 +95,6 @@
 							<postBuildHookScript>verify</postBuildHookScript>
 							<goals>
 								<goal>package</goal>
-								<goal>site</goal>
 							</goals>
 						</configuration>
 						<executions>

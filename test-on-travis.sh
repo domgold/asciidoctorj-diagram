@@ -6,3 +6,5 @@ ls /usr/local/bin/dot
 ls /usr/bin/dot
 echo $PATH
 dot -V
+mvn verify -Prun-it
+cat target/it/*/*.log
