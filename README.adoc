@@ -6,7 +6,15 @@ Just add the jar as dependency to the class path and you can start using diagram
 
 See the integration test (link:./src/it/asciidoctor-maven-example/pom.xml[asciidoctor-maven-example]) for a simple maven example.
 
-To build with integration tests do :
+To build and install this project to your local Maven repository:
+
+----
+$ mvn install
+----
+
+You can then use asciidoctorj-diagram as maven dependency.
+
+To execute integration tests:
 
 ----
 $ mvn verify -Prun-it

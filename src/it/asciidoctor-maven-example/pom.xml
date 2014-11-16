@@ -16,7 +16,7 @@
                 <version>1.5.0</version>
                 <dependencies>
 			        <dependency>
-			            <groupId>org.asciidoctor.asciidoctorj</groupId>
+			            <groupId>org.asciidoctor</groupId>
 			            <artifactId>asciidoctorj-diagram</artifactId>
 			            <version>@project.version@</version>
 			        </dependency>
