@@ -1,1 +1,1 @@
-script: dot -V
+script: test-on-travis.sh
